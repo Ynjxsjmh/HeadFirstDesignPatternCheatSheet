@@ -1,0 +1,14 @@
+* Tasks
+** TODO Start new org file for tutorial
+** DONE Outline document
+   CLOSED: [2018-09-07 Fri 22:59]
+
+
+   - State "DONE"       from "TODO"       [2018-09-07 Fri 22:59]
+* Introduction
+** Obtanining org-mode
+** Installation
+** Configuration
+* The basics
+** Creating a new file
+** Simple task list

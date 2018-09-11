@@ -1,0 +1,1 @@
+Java’s implementation of the Singleton Pattern makes use of `a private constructor`,`a static method` combined with `a static variable`.

@@ -1,6 +1,7 @@
 clam n. 蛤蛎
 crust n. 硬外皮，面包皮
 diagonal adj. 对角线的
+dish n. 盘，餐具
 dough n. 面团
 grated adj. 撮碎的
 marinara n. 海员式沙司
